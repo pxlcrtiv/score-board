@@ -1,6 +1,9 @@
 body {
     margin: 20px;
     padding: 20px;
+    justify-content: space-around;
+    width: 560px;
+    height: 720px;
 }
 
 .container {
